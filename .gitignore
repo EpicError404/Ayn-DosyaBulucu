@@ -1,0 +1,8 @@
+.continue/
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+Thumbs.db
+Desktop.ini
